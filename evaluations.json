@@ -1,0 +1,38 @@
+[
+  {
+    "id": "e001",
+    "courseId": "c002",
+    "studentId": "s001",
+    "teacherId": "t001",
+    "content": "本节课完成了小猫行走动画，能独立使用循环积木，课堂专注度很高。",
+    "rating": 5,
+    "date": "2026-11-21"
+  },
+  {
+    "id": "e002",
+    "courseId": "c003",
+    "studentId": "s001",
+    "teacherId": "t001",
+    "content": "剧情设计很有想法，角色对话部分可以更简洁一些，继续保持。",
+    "rating": 4,
+    "date": "2026-11-14"
+  },
+  {
+    "id": "e003",
+    "courseId": "c005",
+    "studentId": "s002",
+    "teacherId": "t002",
+    "content": "搭建速度快，能主动帮助同桌，接下来尝试独立完成传感器接线。",
+    "rating": 5,
+    "date": "2026-11-22"
+  },
+  {
+    "id": "e004",
+    "courseId": "c007",
+    "studentId": "s003",
+    "teacherId": "t001",
+    "content": "第一次接触循环概念，理解得不错，课后练习记得完成。",
+    "rating": 5,
+    "date": "2026-11-23"
+  }
+]
