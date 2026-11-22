@@ -1,0 +1,29 @@
+[
+  {
+    "id": "s001",
+    "name": "陈一诺",
+    "bindCode": "QIAO1001",
+    "grade": "三年级",
+    "parentPhone": "139 0000 1001",
+    "remainingLessons": 12,
+    "teacherId": "t001"
+  },
+  {
+    "id": "s002",
+    "name": "林知远",
+    "bindCode": "QIAO1002",
+    "grade": "四年级",
+    "parentPhone": "139 0000 1002",
+    "remainingLessons": 8,
+    "teacherId": "t002"
+  },
+  {
+    "id": "s003",
+    "name": "苏可欣",
+    "bindCode": "QIAO1003",
+    "grade": "二年级",
+    "parentPhone": "139 0000 1003",
+    "remainingLessons": 15,
+    "teacherId": "t001"
+  }
+]
