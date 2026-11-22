@@ -1,0 +1,26 @@
+[
+  {
+    "id": "t001",
+    "name": "李老师",
+    "phone": "138 0000 0001",
+    "type": "shareholder",
+    "subject": "图形化编程",
+    "passwordHash": "7cfdc2d24501bfe14d8a6e0f86e027ab863521ba5277ca5dbe79036c0f7bf3f7"
+  },
+  {
+    "id": "t002",
+    "name": "王老师",
+    "phone": "138 0000 0002",
+    "type": "regular",
+    "subject": "机器人搭建",
+    "passwordHash": "4d2fc7648e2648e42683efefbb1f4977dce958556c2eb5d60a15220ec85577c4"
+  },
+  {
+    "id": "t003",
+    "name": "张老师",
+    "phone": "138 0000 0003",
+    "type": "regular",
+    "subject": "Python 编程",
+    "passwordHash": "bcb25c0be751588cae2fc93ffca15826eacc8eb925a072193fc5c39bb6a8189d"
+  }
+]
