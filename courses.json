@@ -1,0 +1,79 @@
+[
+  {
+    "id": "c001",
+    "studentId": "s001",
+    "teacherId": "t001",
+    "title": "Scratch 动画入门",
+    "date": "2026-11-28",
+    "startTime": "18:00",
+    "endTime": "19:30",
+    "status": "待上课",
+    "room": "A 教室"
+  },
+  {
+    "id": "c002",
+    "studentId": "s001",
+    "teacherId": "t001",
+    "title": "Scratch 游戏制作",
+    "date": "2026-11-21",
+    "startTime": "18:00",
+    "endTime": "19:30",
+    "status": "已上课",
+    "room": "A 教室"
+  },
+  {
+    "id": "c003",
+    "studentId": "s001",
+    "teacherId": "t001",
+    "title": "角色与剧情设计",
+    "date": "2026-11-14",
+    "startTime": "18:00",
+    "endTime": "19:30",
+    "status": "已上课",
+    "room": "A 教室"
+  },
+  {
+    "id": "c004",
+    "studentId": "s002",
+    "teacherId": "t002",
+    "title": "机器人结构搭建",
+    "date": "2026-11-29",
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "status": "待上课",
+    "room": "B 教室"
+  },
+  {
+    "id": "c005",
+    "studentId": "s002",
+    "teacherId": "t002",
+    "title": "传感器初体验",
+    "date": "2026-11-22",
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "status": "已上课",
+    "room": "B 教室"
+  },
+  {
+    "id": "c006",
+    "studentId": "s003",
+    "teacherId": "t001",
+    "title": "图形化编程启蒙",
+    "date": "2026-11-30",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "status": "待上课",
+    "room": "A 教室"
+  },
+  {
+    "id": "c007",
+    "studentId": "s003",
+    "teacherId": "t001",
+    "title": "认识顺序与循环",
+    "date": "2026-11-23",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "status": "已上课",
+    "room": "A 教室"
+  }
+]
