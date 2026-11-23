@@ -75,5 +75,25 @@
     "endTime": "17:00",
     "status": "已上课",
     "room": "A 教室"
+  },
+  {
+    "id": "cls-e2e-001",
+    "title": "E2E测试-周六Scratch基础班",
+    "language": "Scratch",
+    "teacherId": "t001",
+    "studentIds": [
+      "s001",
+      "stu-1795440949052"
+    ],
+    "schedule": {
+      "type": "weekly",
+      "weekdays": [
+        6
+      ],
+      "startTime": "18:00",
+      "endTime": "19:30"
+    },
+    "status": "进行中",
+    "room": "创客教室A"
   }
 ]
