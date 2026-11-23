@@ -19,7 +19,19 @@
     "startTime": "18:00",
     "endTime": "19:30",
     "status": "已上课",
-    "room": "A 教室"
+    "room": "A 教室",
+    "studentIds": [
+      "s001",
+      "stu-1795440949052",
+      "s002",
+      "s003"
+    ],
+    "schedule": {
+      "type": "weekly",
+      "weekdays": [],
+      "startTime": "18:00",
+      "endTime": "19:30"
+    }
   },
   {
     "id": "c003",
