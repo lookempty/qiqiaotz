@@ -1,14 +1,5 @@
 [
   {
-    "courseId": "c004",
-    "studentId": "s002",
-    "teacherId": "t002",
-    "content": "一坨💩",
-    "rating": "不专心",
-    "date": "2026-11-23",
-    "id": "e-1795438958012"
-  },
-  {
     "id": "e001",
     "courseId": "c002",
     "studentId": "s001",
