@@ -5,7 +5,7 @@
     "phone": "191 4700 0386",
     "type": "shareholder",
     "subject": "编程",
-    "passwordHash": "eb9e5c2a708dd6c4b57088c96553de8303cf431b5e42a0630625fa08d8dd6d6b"
+    "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92"
   },
   {
     "id": "t002",
@@ -13,7 +13,7 @@
     "phone": "",
     "type": "regular",
     "subject": "C++",
-    "passwordHash": "4d2fc7648e2648e42683efefbb1f4977dce958556c2eb5d60a15220ec85577c4"
+    "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92"
   },
   {
     "id": "t003",
@@ -21,6 +21,6 @@
     "phone": "138 0000 0003",
     "type": "regular",
     "subject": "Python 编程",
-    "passwordHash": "bcb25c0be751588cae2fc93ffca15826eacc8eb925a072193fc5c39bb6a8189d"
+    "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92"
   }
 ]
