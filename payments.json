@@ -1,13 +1,1 @@
-[
-  {
-    "id": "pay-mock_tx_62234455",
-    "studentId": "stu-1795440949052",
-    "amount": 10,
-    "lessons": 2,
-    "date": "2026-11-24",
-    "status": "已缴费",
-    "remark": "课时包",
-    "orderId": "QQ1795530962234455",
-    "transactionId": "mock_tx_62234455"
-  }
-]
+[]
