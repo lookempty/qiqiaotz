@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "pay-mock_tx_71763704",
+    "studentId": "s001",
+    "amount": 1800,
+    "lessons": 30,
+    "date": "2026-11-24",
+    "status": "已缴费",
+    "remark": "Scratch 基础班",
+    "orderId": "QQ1795531271763704",
+    "transactionId": "mock_tx_71763704"
+  }
+]
