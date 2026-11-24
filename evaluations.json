@@ -54,5 +54,16 @@
     "date": "",
     "content": "测试",
     "id": "eva-1795443051151"
+  },
+  {
+    "courseId": "c002",
+    "studentId": "",
+    "teacherId": "t001",
+    "content": "E2E全班测试评价-c002",
+    "rating": "很好",
+    "date": "2026-11-24",
+    "targetType": "class",
+    "classId": "c002",
+    "id": "e-e2e-c002"
   }
 ]
