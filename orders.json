@@ -6,9 +6,12 @@
     "subject": "奇巧少儿 · Scratch 基础班",
     "amount": 1800,
     "lessons": 30,
-    "status": "PAYING",
+    "status": "PAID",
     "prepayId": "mock_prepay_QQ1795531271763704",
     "createdAt": "2026-11-24T14:41:11.763Z",
-    "remark": "Scratch 基础班"
+    "remark": "Scratch 基础班",
+    "transactionId": "mock_tx_71763704",
+    "paidAt": "2026-11-24 14:41:18",
+    "paymentId": "pay-mock_tx_71763704"
   }
 ]
