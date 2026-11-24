@@ -6,9 +6,12 @@
     "subject": "奇巧少儿 · 课时包",
     "amount": 10,
     "lessons": 2,
-    "status": "PAYING",
+    "status": "PAID",
     "prepayId": "mock_prepay_QQ1795530962234455",
     "createdAt": "2026-11-24T14:36:02.234Z",
-    "remark": "课时包"
+    "remark": "课时包",
+    "transactionId": "mock_tx_62234455",
+    "paidAt": "2026-11-24 14:36:05",
+    "paymentId": "pay-mock_tx_62234455"
   }
 ]
