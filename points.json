@@ -7,5 +7,14 @@
     "type": "earn",
     "teacherId": "t001",
     "date": "2026-11-27"
+  },
+  {
+    "id": "pt-e2e-topup",
+    "studentId": "stu-1795440949052",
+    "points": 300,
+    "reason": "E2E测试充值积分",
+    "type": "earn",
+    "teacherId": "t001",
+    "date": "2026-11-27"
   }
 ]
