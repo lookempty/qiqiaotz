@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": "pt-1795792439813-1",
+    "studentId": "s001",
+    "points": 10,
+    "reason": "课堂表现优秀",
+    "type": "earn",
+    "teacherId": "t001",
+    "date": "2026-11-27"
+  },
+  {
+    "id": "pt-1795792439814-2",
+    "studentId": "s002",
+    "points": 10,
+    "reason": "课堂表现优秀",
+    "type": "earn",
+    "teacherId": "t001",
+    "date": "2026-11-27"
+  },
+  {
+    "id": "pt-1795792439815-3",
+    "studentId": "s003",
+    "points": 10,
+    "reason": "课堂表现优秀",
+    "type": "earn",
+    "teacherId": "t001",
+    "date": "2026-11-27"
+  },
+  {
+    "id": "pt-1795792439816-4",
+    "studentId": "stu-1795440949052",
+    "points": 10,
+    "reason": "课堂表现优秀",
+    "type": "earn",
+    "teacherId": "t001",
+    "date": "2026-11-27"
+  }
+]
