@@ -1,0 +1,42 @@
+[
+  {
+    "id": "shop-cup",
+    "name": "卡通水杯",
+    "description": "可爱动物图案保温杯",
+    "points": 100,
+    "stock": 20,
+    "icon": "star",
+    "category": "生活用品",
+    "status": "on"
+  },
+  {
+    "id": "shop-notebook",
+    "name": "编程笔记本",
+    "description": "记录你的奇思妙想",
+    "points": 80,
+    "stock": 30,
+    "icon": "book",
+    "category": "学习用品",
+    "status": "on"
+  },
+  {
+    "id": "shop-badge",
+    "name": "荣誉徽章",
+    "description": "集满积分的荣耀象征",
+    "points": 200,
+    "stock": 10,
+    "icon": "shield",
+    "category": "荣誉奖励",
+    "status": "on"
+  },
+  {
+    "id": "shop-toy",
+    "name": "机器人拼装玩具",
+    "description": "动手搭建专属机器人",
+    "points": 500,
+    "stock": 5,
+    "icon": "sparkle",
+    "category": "玩具奖励",
+    "status": "on"
+  }
+]
